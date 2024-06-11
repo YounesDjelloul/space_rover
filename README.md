@@ -1,3 +1,8 @@
+## Visual Preview:
+
+![Screenshot from 2024-06-11 14-38-38](https://github.com/YounesDjelloul/space_rover/assets/45467212/88904333-bb99-4837-8e82-ca62d89e72c4)
+![Screenshot from 2024-06-11 14-39-14](https://github.com/YounesDjelloul/space_rover/assets/45467212/21367213-e978-44ee-bb44-1795e976868b)
+
 ## Key Features:
 
 Rover Control Panel: an interface where users can input commands to move the rover (e.g., forward, backward, turn left, turn right).
@@ -7,6 +12,7 @@ Grid Visualization: a grid representing the Martian surface where the rover's cu
 Input Validation: the commands entered are validdated and errors are handled gracefully.
 
 Responsive Design: The UI is responsive and work well on different devices.
+
 
 ## Rover commands:
 
